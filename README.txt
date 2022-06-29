@@ -1,8 +1,8 @@
-Package: M4Lsmf
+Package: SMFM4L
 Type: Package
-Title: Do Small Loss must  Give Large Weight? Avoid Sparse Data Interference with Selective Matrix Factorization
+Title: SMFM4L: Multi-typed Objects Multi-view Multi-instance Multi-label Learning based on Selective Matrix Factorization
 Version: 1.0
-Description: This package implements the M4Lsmf algorithm with a matrix tri-factorization framework.
+Description: This package implements the SMFM4L algorithm with a matrix tri-factorization framework.
         
 Depends:
     MATLAB (>= 2012a)
@@ -13,7 +13,7 @@ Files:
 
 M4Lsmf_demo.m: The main function.
 
-M4Lsmf.m: The algorithm for M4Lsmf.
+M4Lsmf.m: The algorithm for SMFM4L.
 
 NNDSVD.m: Init the basis matrix factor G with SVD
 
